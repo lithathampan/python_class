@@ -1,2 +1,2 @@
-# python_class
-program exercises
+# Python_Sessions
+program Questions and Answers
